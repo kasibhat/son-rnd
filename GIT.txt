@@ -1,0 +1,13 @@
+GIT Overview, Git Command lines	
+https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
+https://www.atlassian.com/git/tutorials/
+	
+GIT Best Practices	
+https://sethrobertson.github.io/GitBestPractices/
+	
+GIT Videos	\\172.26.42.63\vc\CBT\GIT
+	Note: you need to login with SONATA Domain Login to access the above shared directory
+	
+One Another VeryGood Read	http://www.gitguys.com/topics/what-every-vcs-must-do
+Note: It give an Indepth concepts of GIT internals like GIT Object Store, Tree, Commits and Tags	
+	
