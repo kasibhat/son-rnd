@@ -13,8 +13,6 @@ Note: It give an Indepth concepts of GIT internals like GIT Object Store, Tree, 
 	
 
 se
-fsd
-f
-f
-sdf
-d
+
+son 2 
+son 2
